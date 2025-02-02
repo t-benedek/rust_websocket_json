@@ -7,4 +7,4 @@ Finally it parses the JSON data structure and prints its fields.
 2. How to make use of https://github.com/nox/serde_json to parse JSON data structures
 
 # How to use
-Just build and run using 'cargo run'.
+Just build and run using `cargo run`.
